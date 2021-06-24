@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/email/dsn.jar"/>
+	<classpathentry kind="lib" path="lib/email/imap.jar"/>
+	<classpathentry kind="lib" path="lib/email/mailapi.jar"/>
+	<classpathentry kind="lib" path="lib/email/pop3.jar"/>
+	<classpathentry kind="lib" path="lib/email/smtp.jar"/>
+	<classpathentry kind="lib" path="lib/persistencia/xmlpull-1.1.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/persistencia/xom-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/persistencia/xstream-1.4.7.jar"/>
+	<classpathentry kind="lib" path="lib/persistencia/xstream-benchmark-1.4.7.jar"/>
+	<classpathentry kind="lib" path="lib/pdf/iText-5.0.5.jar"/>
+	<classpathentry kind="lib" path="lib/dropbox/dropbox-core-sdk-3.0.5.jar"/>
+	<classpathentry kind="lib" path="lib/dropbox/jackson-core-2.7.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
