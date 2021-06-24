@@ -8,3 +8,4 @@ O sistema permite que os usuários cadastrem-se. Para isso eles terão de fornec
 Funcionalidades: Sistema de autenticação, Cadastro, Recuperar senha, Jogar uma partida contra o computador (nível fácil, médio e difícil) Manter pontuações dos jogadores e
 histórico de partidas, Listar partidas, Imprimir um relatório da partida em PDF, Manter o arquivo que armazenará as informações “nas nuvens”, Listar jogadores, Buscar um jogador por nome, Enviar uma mensagem/Email a outro jogador Jogar uma partida contra outro jogador, Ler mensagem recebida de outro jogador, Exibir ranque de jogadores (tipos de ranque: total de pontos ou vitórias). 
 
+Esse foi o meu primeiro projeto em Java, não entendia nada sobre padrões, então não e um codigo limpo!
